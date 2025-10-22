@@ -756,7 +756,7 @@ function renderBrandPopup(){
           </div>
         </div>
 
-        <div class="p5-collection-title">벚꽃 컬렉션 QR</div>
+        <div class="p5-collection-title">벚꽃 컬렉션 가이드 영상</div>
         <div class="p5-video">
           <img src="img/qrcode_spring.png" alt="벚꽃 컬렉션 QR" class="p5-qrcode" />
           <div class="p5-item-text">
@@ -827,7 +827,7 @@ function renderBrandPopup(){
           </div>
         </div>
 
-        <div class="p5-collection-title">소다 컬렉션 QR</div>
+        <div class="p5-collection-title">소다 컬렉션 가이드 영상</div>
          <div class="p5-video">
           <img src="img/qrcode_summer.png" alt="소다 컬렉션 QR" class="p5-qrcode" />
           <div class="p5-item-text">
@@ -897,7 +897,7 @@ function renderBrandPopup(){
           </div>
         </div>
 
-        <div class="p5-collection-title">밤 컬렉션 QR</div>
+        <div class="p5-collection-title">밤 컬렉션 가이드 영상</div>
          <div class="p5-video">
           <img src="img/qrcode_autumn.png" alt="밤 컬렉션 QR" class="p5-qrcode" />
           <div class="p5-item-text">
@@ -967,7 +967,7 @@ function renderBrandPopup(){
           </div>
         </div>
 
-        <div class="p5-collection-title">슈가 컬렉션 QR</div>
+        <div class="p5-collection-title">슈가 컬렉션 가이드 영상</div>
          <div class="p5-video">
           <img src="img/qrcode_winter.png" alt="슈가 컬렉션 QR" class="p5-qrcode" />
           <div class="p5-item-text">
