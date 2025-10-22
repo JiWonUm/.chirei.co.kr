@@ -956,7 +956,7 @@ button, a, .clickable, [role="button"] { cursor: url("img/c_cursor.png") 8 2, po
   image-rendering: pixelated;
 }
 .p5-card-name {
-  margin-top: 10px;
+  margin-top: 14px;
   color: #6b4438;
   font-size: 16px;
 }
