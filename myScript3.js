@@ -623,7 +623,7 @@ function renderBrandPopup(){
         감정과 개성이 색으로 번져가는 과정 속에서,<br>
         당신은 스스로의 아름다움을 발견할 수 있습니다.
         <span class="spacer"></span>
-
+        <span class="spacer"></span>
         <strong>그럼 치레이에 방문하신걸 환영합니다. 주인공님.</strong>
       </div>
     </div>
