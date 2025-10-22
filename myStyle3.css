@@ -1022,6 +1022,7 @@ button, a, .clickable, [role="button"] { cursor: url("img/c_cursor.png") 8 2, po
 .p5-item-text {
   text-align: center;
   max-width: 500px;
+   color:#6b4438;
 }
 
 .p5-item-title {
@@ -1031,23 +1032,13 @@ button, a, .clickable, [role="button"] { cursor: url("img/c_cursor.png") 8 2, po
   color: #401f0c;
 }
 
-.p5-item-text p,
-.p5-item-text li {
+.p5-item-text p
+{
   color: #6b4438;
   font-size: 16px;
   line-height: 1.6;
 }
 
-.p5-item-text ul {
-  margin: 0;
-  padding-left: 0;
-  list-style: none;
-}
-
-.p5-item-text ul li::before {
-  content: "• ";
-  color: #997c70;
-}
 
 .p5-video-label {
   text-align: center;
