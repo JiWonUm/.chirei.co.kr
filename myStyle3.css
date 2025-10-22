@@ -794,7 +794,7 @@ button, a, .clickable, [role="button"] { cursor: url("img/c_cursor.png") 8 2, po
   cursor: url("img/c_cursor.png") 8 2, pointer !important;
 }
 
-.style-name { color: #6b4438; font-size: 16px; }
+.style-name { color: #6b4438; font-size: 14px; margin-top: 12px; }
 .style-card.selected { transform: scale(1.25); border-radius: 14px; }
 
 /* =========================================
