@@ -189,7 +189,7 @@ input, textarea, .text-field { cursor: url('img/t_cursor.png') 0 1.6vh, text; }
   /* top: 170px; -> 17vh로 변환 */
   top: 15vh;
   /* left: 400px; -> 40vh 또는 20vw로 변환. 수평 위치이므로 vw가 더 적합 */
-  left: 19vw;
+  left: 16vw;
   transform: translateX(-50%);
   transition: transform 0.2s ease;
   display: flex;
