@@ -706,7 +706,7 @@ function renderBrandPopup(){
     popup5Body.innerHTML = `
       ${headerHTML}
       <div class="p5-detail-wrap">
-        <div class="p5-collection-title2">벚꽃 컬렉션</div>
+        <div class="p5-collection-title">벚꽃 컬렉션</div>
         <img src="img/season_spring.png" alt="벚꽃" class="p5-hero-c" />
 
         <div class="p5-block">
@@ -727,7 +727,7 @@ function renderBrandPopup(){
           컬렉션을 담당하는 천사는 갸루 수호천사 <strong>이치고</strong>입니다.</p>
         </div>
 
-        <div class="p5-collection-title2">제품 구성</div>
+        <div class="p5-collection-title">제품 구성</div>
 
         <div class="p5-item">
           <img src="img/prod_eye_spring.png" alt="" class="p5-item-icon" />
@@ -756,7 +756,7 @@ function renderBrandPopup(){
           </div>
         </div>
 
-        <div class="p5-collection-title2">벚꽃 컬렉션 QR</div>
+        <div class="p5-collection-title">벚꽃 컬렉션 QR</div>
         <div class="p5-video">
           <img src="img/qrcode_spring.png" alt="벚꽃 컬렉션 QR" class="p5-qrcode" />
           <div class="p5-item-text">
@@ -798,7 +798,7 @@ function renderBrandPopup(){
           컬렉션을 담당하는 천사는 코스프레 수호천사 <strong>미카</strong>입니다.</p>
         </div>
 
-        <div class="p5-collection-title2">제품 구성</div>
+        <div class="p5-collection-title">제품 구성</div>
 
         <div class="p5-item">
           <img src="img/prod_eye_summer.png" alt="" class="p5-item-icon" />
@@ -827,7 +827,7 @@ function renderBrandPopup(){
           </div>
         </div>
 
-        <div class="p5-collection-title2">소다 컬렉션 QR</div>
+        <div class="p5-collection-title">소다 컬렉션 QR</div>
          <div class="p5-video">
           <img src="img/qrcode_summer.png" alt="소다 컬렉션 QR" class="p5-qrcode" />
           <div class="p5-item-text">
@@ -897,7 +897,7 @@ function renderBrandPopup(){
           </div>
         </div>
 
-        <div class="p5-collection-title2">밤 컬렉션 QR</div>
+        <div class="p5-collection-title">밤 컬렉션 QR</div>
          <div class="p5-video">
           <img src="img/qrcode_autumn.png" alt="밤 컬렉션 QR" class="p5-qrcode" />
           <div class="p5-item-text">
@@ -967,7 +967,7 @@ function renderBrandPopup(){
           </div>
         </div>
 
-        <div class="p5-collection-title2">슈가 컬렉션 QR</div>
+        <div class="p5-collection-title">슈가 컬렉션 QR</div>
          <div class="p5-video">
           <img src="img/qrcode_winter.png" alt="슈가 컬렉션 QR" class="p5-qrcode" />
           <div class="p5-item-text">
