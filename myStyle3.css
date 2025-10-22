@@ -136,8 +136,8 @@ img {
 }
 
 /* 위치 프리셋 */
-.pos-center       { top: 20vh; left: 50vh; transform: none; }
-.pos-top-left     { top: 15vh; left: 40vh; transform: none; }
+.pos-center       { top: 20vh; left: 40vh; transform: none; }
+.pos-top-left     { top: 13vh; left: 50vh; transform: none; }
 .pos-top-right    { top: 10vh; left: 80vh; transform: none; }
 .pos-bottom-left  { top: 30vh; left: 5vh;  transform: none; }
 .pos-bottom-right { top: 15vh; left: 10vh; transform: none; }
@@ -979,12 +979,15 @@ button, a, .clickable, [role="button"] { cursor: url("img/c_cursor.png") 8 2, po
 .p5-collection-title {
   text-align: center;
   font-size: 18px;
-  margin-bottom: 8px;
+  margin-bottom: 3px;
+  margin-top: 20px;
 }
+
 
 .p5-block {
   text-align: center;
   margin: 8px 0 10px;
+  color: #6b4438;
 }
 .p5-block h4 {
   margin: 0 0 6px;
@@ -1022,7 +1025,7 @@ button, a, .clickable, [role="button"] { cursor: url("img/c_cursor.png") 8 2, po
 .p5-item-text {
   text-align: center;
   max-width: 500px;
-   color:#6b4438;
+ color: #6b4438;
 }
 
 .p5-item-title {
@@ -1032,13 +1035,23 @@ button, a, .clickable, [role="button"] { cursor: url("img/c_cursor.png") 8 2, po
   color: #401f0c;
 }
 
-.p5-item-text p
-{
+.p5-item-text p,
+.p5-item-text li {
   color: #6b4438;
   font-size: 16px;
   line-height: 1.6;
 }
 
+.p5-item-text ul {
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.p5-item-text ul li::before {
+  content: "• ";
+  color: #997c70;
+}
 
 .p5-video-label {
   text-align: center;

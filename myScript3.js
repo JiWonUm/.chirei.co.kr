@@ -708,21 +708,21 @@ function renderBrandPopup(){
       <div class="p5-detail-wrap">
         <div class="p5-collection-title">벚꽃 컬렉션</div>
         <img src="img/season_spring.png" alt="벚꽃" class="p5-hero-c" />
-
-        <div class="p5-block">
+    
          <div class="p5-collection-title">컨셉</div>
+         <div class="p5-block">
           <p>벚꽃이 흩날리는 사랑스러운 봄의 한낮에서 영감을 받은 컬렉션입니다.<br>
           벚꽃처럼 따스하고 달콤한 공기 속에서, 당신의 얼굴에도 <br> 봄이 피어나는 듯한 생기를 전해드립니다.</p>
         </div>
 
-        <div class="p5-block">
           <div class="p5-collection-title">컬러 톤</div>
+          <div class="p5-block">
           <p>봄 웜톤 스타일의 라이트 코랄 핑크톤으로<br>
            발그레한 색감으로 생기 있는 사랑스러움을 전달합니다.</p>
         </div>
 
-        <div class="p5-block">
           <div class="p5-collection-title">시그니처 & 수호천사</div>
+          <div class="p5-block">
           <p>대표 디저트는 벚꽃 마카롱이며,<br>
           컬렉션을 담당하는 천사는 갸루 수호천사 <strong>이치고</strong>입니다.</p>
         </div>
@@ -756,7 +756,7 @@ function renderBrandPopup(){
           </div>
         </div>
 
-        <div class="p5-collection-title">벚꽃 컬렉션 가이드 영상</div>
+        <div class="p5-collection-title">벚꽃 컬렉션 QR</div>
         <div class="p5-video">
           <img src="img/qrcode_spring.png" alt="벚꽃 컬렉션 QR" class="p5-qrcode" />
           <div class="p5-item-text">
@@ -781,19 +781,19 @@ function renderBrandPopup(){
         <div class="p5-collection-title">소다 컬렉션</div>
         <img src="img/season_summer.png" alt="소다" class="p5-hero-c" />
 
-        <div class="p5-block">
           <div class="p5-collection-title">컨셉</div>
+          <div class="p5-block">
           <p>뜨거운 여름날 물방울이 맺힌 블루소다의 청량함을 표현한 컬렉션입니다.<br>
           여름 쿨 블루·화이트톤으로 시원하고 맑은 무드를 연출합니다.</p>
         </div>
 
-        <div class="p5-block">
           <div class="p5-collection-title">컬러톤</div>
+          <div class="p5-block">
           <p>여름 쿨 스타일의 블루·화이트 조합으로<br> 청량하고 맑은 톤을 사용합니다.</p>
         </div>
 
-        <div class="p5-block">
           <div class="p5-collection-title">시그니처 & 수호천사</div>
+          <div class="p5-block">
           <p>대표 디저트는 블루소다이며,<br>
           컬렉션을 담당하는 천사는 코스프레 수호천사 <strong>미카</strong>입니다.</p>
         </div>
@@ -827,7 +827,7 @@ function renderBrandPopup(){
           </div>
         </div>
 
-        <div class="p5-collection-title">소다 컬렉션 가이드 영상</div>
+        <div class="p5-collection-title">소다 컬렉션 QR</div>
          <div class="p5-video">
           <img src="img/qrcode_summer.png" alt="소다 컬렉션 QR" class="p5-qrcode" />
           <div class="p5-item-text">
@@ -851,19 +851,19 @@ function renderBrandPopup(){
         <div class="p5-collection-title">밤 컬렉션</div>
         <img src="img/season_autumn.png" alt="밤" class="p5-hero-c" />
 
-        <div class="p5-block">
           <div class="p5-collection-title">컨셉</div>
+          <div class="p5-block">
           <p>포근하고 묵직한 가을 밤 공기를 닮은 컬렉션입니다.<br>
           딥하고 고혹적인 가을 음영으로 강렬하면서도 따뜻한 분위기를 전달합니다.</p>
         </div>
 
-        <div class="p5-block">
           <div class="p5-collection-title">컬러 톤</div>
+          <div class="p5-block">
           <p>가을 웜톤 스타일의 딥 브라운 계열로, <br>거의 블랙에 가까운 다크한 무드를 사용합니다.</p>
         </div>
 
-        <div class="p5-block">
           <div class="p5-collection-title">시그니처 & 수호천사</div>
+          <div class="p5-block">
           <p>대표 디저트는 몽블랑이며,<br>
           컬렉션을 담당하는 천사는 고딕 수호천사 <strong>루나</strong>입니다.</p>
         </div>
@@ -897,7 +897,7 @@ function renderBrandPopup(){
           </div>
         </div>
 
-        <div class="p5-collection-title">밤 컬렉션 가이드 영상</div>
+        <div class="p5-collection-title">밤 컬렉션 QR</div>
          <div class="p5-video">
           <img src="img/qrcode_autumn.png" alt="밤 컬렉션 QR" class="p5-qrcode" />
           <div class="p5-item-text">
@@ -921,19 +921,19 @@ function renderBrandPopup(){
         <div class="p5-collection-title">슈가 컬렉션</div>
         <img src="img/season_winter.png" alt="슈가" class="p5-hero-c" />
 
-        <div class="p5-block">
           <div class="p5-collection-title">컨셉</div>
+          <div class="p5-block">
           <p>하얀 눈이 쌓인 딸기 밭 속의 눈 요정이 연상되는 컬렉션입니다.<br>
           차분하고 몽환적인 핑크·로즈·화이트 톤으로 요정같은 무드를 연출합니다.</p>
         </div>
 
-        <div class="p5-block">
           <div class="p5-collection-title">컬러 톤</div>
+          <div class="p5-block">
           <p>쿨 뮤트 핑크·로즈·화이트 중심의 팔레트로<br> 화려한듯 몽환적인 감성을 표현합니다.</p>
         </div>
 
-        <div class="p5-block">
           <div class="p5-collection-title">시그니처 & 수호천사</div>
+          <div class="p5-block">
           <p>대표 디저트는 슈가 파우더가 듬뿍 올라간 딸기 바닐라 컵케이크이며,<br>
           컬렉션을 담당하는 천사는 도우인 수호천사 <strong>마오</strong>입니다.</p>
         </div>
@@ -967,7 +967,7 @@ function renderBrandPopup(){
           </div>
         </div>
 
-        <div class="p5-collection-title">슈가 컬렉션 가이드 영상</div>
+        <div class="p5-collection-title">슈가 컬렉션 QR</div>
          <div class="p5-video">
           <img src="img/qrcode_winter.png" alt="슈가 컬렉션 QR" class="p5-qrcode" />
           <div class="p5-item-text">
