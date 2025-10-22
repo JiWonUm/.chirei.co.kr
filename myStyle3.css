@@ -70,6 +70,25 @@ img {
   width: clamp(8.5vh, 15vh, 20vh); /* 메인 캐릭터 비례 크기 */
 }
 
+.tooltip-img {
+  position: absolute;
+  bottom: 90%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-10px);
+  opacity: 0;
+  pointer-events: none; /* 말풍선 자체는 이벤트 차단 */
+  transition: opacity .3s ease, transform .3s ease;
+  height: 67px;
+  z-index: 1300; /* 캐릭터 위 */
+  filter: drop-shadow(0 2px 6px rgba(0,0,0,.25));
+  will-change: opacity, transform;
+}
+
+.char-wrapper:hover .tooltip-img {
+  opacity: 0.93;
+  transform: translateX(-50%) translateY(-15px);
+}
+
 @keyframes floatUpDown {
   0%, 100% { transform: translateY(0); }
   50%      { transform: translateY(-7px); }
@@ -117,11 +136,12 @@ img {
 }
 
 /* 위치 프리셋 */
-.pos-center       { top: 40%; left: 45%; transform: none; }
-.pos-top-left     { top: 15%; left: 50%; transform: none; }
-.pos-top-right    { top: 20%; left: 55%; transform: none; }
-.pos-bottom-left  { top: 45%; left: 5%;  transform: none; }
-.pos-bottom-right { top: 15%; left: 10%; transform: none; }
+.pos-center       { top: 20vh; left: 50vh; transform: none; }
+.pos-top-left     { top: 15vh; left: 40vh; transform: none; }
+.pos-top-right    { top: 10vh; left: 80vh; transform: none; }
+.pos-bottom-left  { top: 30vh; left: 5vh;  transform: none; }
+.pos-bottom-right { top: 15vh; left: 10vh; transform: none; }
+
 
 .modal-titlebar {
   display: flex;
