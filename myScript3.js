@@ -756,7 +756,7 @@ function renderBrandPopup(){
           </div>
         </div>
 
-        <div class="p5-collection-title">벚꽃 컬렉션 QR</div>
+        <div class="p5-collection-title">벚꽃 컬렉션 가이드 영상</div>
         <div class="p5-video">
           <img src="img/qrcode_spring.png" alt="벚꽃 컬렉션 QR" class="p5-qrcode" />
           <div class="p5-item-text">
@@ -827,7 +827,7 @@ function renderBrandPopup(){
           </div>
         </div>
 
-        <div class="p5-collection-title">소다 컬렉션 QR</div>
+        <div class="p5-collection-title">소다 컬렉션 가이드 영상</div>
          <div class="p5-video">
           <img src="img/qrcode_summer.png" alt="소다 컬렉션 QR" class="p5-qrcode" />
           <div class="p5-item-text">
@@ -897,7 +897,7 @@ function renderBrandPopup(){
           </div>
         </div>
 
-        <div class="p5-collection-title">밤 컬렉션 QR</div>
+        <div class="p5-collection-title">밤 컬렉션 가이드 영상</div>
          <div class="p5-video">
           <img src="img/qrcode_autumn.png" alt="밤 컬렉션 QR" class="p5-qrcode" />
           <div class="p5-item-text">
@@ -967,7 +967,7 @@ function renderBrandPopup(){
           </div>
         </div>
 
-        <div class="p5-collection-title">슈가 컬렉션 QR</div>
+        <div class="p5-collection-title">슈가 컬렉션 가이드 영상</div>
          <div class="p5-video">
           <img src="img/qrcode_winter.png" alt="슈가 컬렉션 QR" class="p5-qrcode" />
           <div class="p5-item-text">
@@ -1037,8 +1037,8 @@ function renderGoodsPopup() {
 
       <div class="goods-item">
         <img src="img/goods_carabiner.png" alt="카라비너" class="goods-img" />
-        <div class="p5-block">
           <div class="p5-collection-title">카라비너</div>
+          <div class="p5-block">
           <p>치레이의 심볼로 제작된 아크릴 카라비너입니다.<br>
           화장품 파우치나 가방에 포인트로 달 수 있으며, 화장품을 키링처럼 달고 다닐 수 있게 도와줍니다.</p>
         </div>
@@ -1046,8 +1046,8 @@ function renderGoodsPopup() {
 
       <div class="goods-item">
         <img src="img/goods_badge.png" alt="핀뱃지" class="goods-img" />
-        <div class="p5-block">
           <div class="p5-collection-title">핀 뱃지</div>
+          <div class="p5-block">
           <p>치레이의 캐릭터로 제작된 미니 뱃지 세트입니다.<br>
           재킷, 가방, 파우치 등에 부착하여 개성을 표현할 수 있습니다.</p>
         </div>
@@ -1055,8 +1055,8 @@ function renderGoodsPopup() {
 
       <div class="goods-item">
         <img src="img/goods_pouch.png" alt="파우치" class="goods-img" />
-        <div class="p5-block">
           <div class="p5-collection-title">화장품 파우치</div>
+          <div class="p5-block">
           <p>치레이의 수호천사가 새겨진 파우치로, 메이크업 소품을 깔끔하게 보관할 수 있습니다.<br>
           부드러운 소재감과 은은한 색감으로 실용성과 감성을 모두 담았습니다.</p>
         </div>
@@ -1064,8 +1064,8 @@ function renderGoodsPopup() {
 
       <div class="goods-item">
         <img src="img/goods_mirror.png" alt="거울 키링" class="goods-img" />
-       <div class="p5-block">
           <div class="p5-collection-title">거울 키링</div>
+          <div class="p5-block">
           <p>아이팔레트 디자인에서 영감을 얻은 미니 거울 키링입니다.<br>
           외출 시 가볍게 들고 다니며 언제든 나의 빛을 확인할 수 있습니다.</p>
         </div>
@@ -1073,8 +1073,8 @@ function renderGoodsPopup() {
 
       <div class="goods-item">
         <img src="img/goods_k.png" alt="쿠션 키링" class="goods-img" />
-        <div class="p5-block">
           <div class="p5-collection-title">쿠션 키링</div>
+          <div class="p5-block">
           <p>일상에서도 수호천사들과 함께 할 수 있는 쿠션 키링입니다.<br>
           외출 시 언제나 나의 수호천사와 함께 할 수 있습니다.</p>
         </div>
