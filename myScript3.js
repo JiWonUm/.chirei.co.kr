@@ -671,7 +671,7 @@ function renderBrandPopup(){
 
       <div class="p5-grid">
         <button class="p5-card" data-key="spring">
-          <img src="img/prod_eye_spring.png" alt="봄" class="p5-card-img" />
+          <img src="img/prod_eye_spring2.png" alt="봄" class="p5-card-img" />
           <div class="p5-card-name">봄</div>
         </button>
         <button class="p5-card" data-key="summer">
